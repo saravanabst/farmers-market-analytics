@@ -1,0 +1,11 @@
+File,Rows,Columns,Duplicate Rows,Missing Values
+booth.csv,12,4,0,0
+customer.csv,28,4,0,0
+customer_purchases.csv,1003,7,0,0
+datetime_demo.csv,150,5,0,0
+market_date_info.csv,150,12,0,388
+product.csv,23,5,0,2
+product_category.csv,7,2,0,0
+vendor.csv,9,5,0,0
+vendor_booth_assignments.csv,921,3,0,0
+vendor_inventory.csv,797,5,0,0
